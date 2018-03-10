@@ -1,2 +1,2 @@
 console.log("boom");
-$(".caption-text").text("Magic!");
+$('.caption-text').text('Magic!');
